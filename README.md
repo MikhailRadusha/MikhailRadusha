@@ -1,4 +1,4 @@
-# 🔸Validator moniker - StingRay
+## 🔸StingRay validator
 
 I am an individual validator and blockchain enthusiast.
 
