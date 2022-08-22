@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 2yrs experience in running a nodes and  currently validate Gravity Bridge, OmniFlix,Konstellation, Nomic, Vidulum, BeeZee, Galaxy, Provenance, Meme, Chronic,IDEP on mainnets and participating in many testnets for a different blockchains.
+I have 2yrs experience in running a nodes and  currently validate Gravity Bridge, OmniFlix,Konstellation, Nomic, Vidulum, BeeZee, Galaxy, Provenance, Meme, Chronic,IDEP,Canto,GenesisL1 on mainnets and participating in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
@@ -33,6 +33,10 @@ Meme https://ping.pub/meme/staking/memevaloper1ctjtsrqjtqq9dmq53w8hvvmldngzwarv0
 Chronic https://chronic.zenscan.io/validator.php?addr=chronicvaloper1y64wre98vqyfldmg626x0g34hll7ksdhmwcn6q
 
 IDEP https://chadscan.com/validators/idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt9djgczr
+
+Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894xswcjp70xwa3rtxf9vds6a
+
+GenesisL1 https://ping.pub/genesisl1/staking/genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543
 
 ## 🔸Hardware:
 
