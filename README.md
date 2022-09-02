@@ -38,6 +38,10 @@ Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894
 
 GenesisL1 https://ping.pub/genesisl1/staking/genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543
 
+## 🔸My current Testnet validators
+
+Near, Territori, CrowdControl,Idep, Desentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Near, Aura, Kyve, BlockPi, Stride, Sei
+
 ## 🔸Hardware:
 
 Location - Hetzner DS, Germany (if necessary, I can rent a unique location)
