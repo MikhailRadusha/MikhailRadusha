@@ -48,3 +48,5 @@ upgrade >>>>> no.
 10. Edit crontab with `crontab -e`.
 > You can find `crontab` in this repository.
 11. Check your logs with `cat $HOME/status/cosmos.log` or `tail $HOME/status/cosmos.log -f`.
+12. Now we receive every hour the status of validator in status telegram channel
+![image](https://user-images.githubusercontent.com/87991370/190980350-6dff309d-655a-48aa-9204-cc60bb0f27bf.png)
