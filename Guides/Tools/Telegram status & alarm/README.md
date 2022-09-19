@@ -16,24 +16,33 @@ Instruction:
 7. Install some packages with `sudo apt-get install jq sysstat bc smartmontools fdisk -y`.
 8. Run `bash cosmos.sh` to check your settings. Normal output:
 ```
-root@v1131623:~/status# bash cosmos.sh
- 
-/// 2022-07-09 11:42:37 ///
- 
-testnets  |  load
+root@Ubuntu-2004-focal-64-minimal:~/status# bash cosmos.sh
 
-cpu >>>>> 68%.
-ram >>>>> 47%.
-part >>>> 55%.
-load >>>> 14.03.
- 
-dws-t  |  cyberomanov
+/// 2022-09-19 10:35:17 ///
 
-exp/me >> 955540/955540.
-place >>> 88/200.
-stake >>> 34.98 dws.
+Hetzner_4  |  load
 
-root@v1131623:~/status#
+cpu_used >>>> 19%.
+ram_used >>>> 36%.
+swap_used >>> 5%.
+part_used >>> 79%.
+serv_load >>> 3.36.
+
+disk_spare >> nvme1n1 has 100% spare.
+disk_used >>> nvme1n1 has 8% used.
+disk_spare >> nvme0n1 has 100% spare.
+disk_used >>> nvme0n1 has 8% used.
+
+haqq-t  |  StingRay
+
+exp/me >>>>>> 144577/144577.
+priv_key >>>> right.
+place >>>>>>> 52/150.
+stake >>>>>>> 10010.00 ISLM.
+missed >>>>>> 0 blocks.
+_gov >>>>>>>> #61.
+upgrade >>>>> no.
+
 ```
 9. Add some rules with `chmod u+x $HOME/status/cosmos.sh`.
 10. Edit crontab with `crontab -e`.
