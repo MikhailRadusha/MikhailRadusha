@@ -49,5 +49,10 @@ upgrade >>>>> no.
 > You can find `crontab` in this repository.
 11. Check your logs with `cat $HOME/status/cosmos.log` or `tail $HOME/status/cosmos.log -f`.
 12. Now we receive every hour the status of validator in log telegram channel
+
 ![image](https://user-images.githubusercontent.com/87991370/190980350-6dff309d-655a-48aa-9204-cc60bb0f27bf.png)
+
 13. In case of upgrade or emergency ( such as lost contact to validator or validator skipping the blocks or jailed) the system will send a message to alarm telegram channel. 
+
+![image](https://user-images.githubusercontent.com/87991370/190981811-0e0f9cd5-1ea3-4129-bf2a-3bbdc9f3b33a.png)
+
