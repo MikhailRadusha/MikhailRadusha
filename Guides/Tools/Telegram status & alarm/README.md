@@ -1,4 +1,4 @@
-## In this Guide i use telegram status & alarm system which was developed by Cyberomanov,to whom  I am very greatful, you can find original scripts here in his repository:   https://github.com/cyberomanov 
+## In this Guide I use telegram status & alarm system which was developed by Cyberomanov,to whom  I am very greatful, you can find original scripts here in his repository:   https://github.com/cyberomanov 
 # status
 This system will alert you with telegram about jails and inactive status. Also it sends you every hour short info about your node status.
 
