@@ -18,7 +18,7 @@ idep-m | CURL="https://rpc.idep.sgtstake.com/block?latest" |
 bitsong-m | CURL="https://rpc.bitsong.forbole.com/block?latest" |
  | |
 kyve-t | CURL="https://api.explorer.kyve.network/bank/total/tkyve" |
-stafi-t | CURL="https://test-rest-rpc1.stafihub.io/bank/total/ufis" |
+kyve-beta-t | CURL="https://api.beta.kyve.network/blocks/latest" |
 pylons-t | CURL="https://pylons.api.explorers.guru/api/blocks/latest" |
 dws-t | CURL="https://dws.api.explorers.guru/api/blocks/latest" |
 quicksilver-t | CURL="https://quicksilver.api.explorers.guru/api/blocks/latest" |
