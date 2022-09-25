@@ -47,3 +47,10 @@ yarn && yarn build
 cp -r $HOME/explorer/dist/* /var/www/html
 sudo systemctl restart nginx
 ```
+## 7. Fix error 404 when reloading explorer page
+```
+nano /etc/nginx/sites-available/default
+try_files $uri /index.html;
+
+sudo systemctl restart nginx
+```
