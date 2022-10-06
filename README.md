@@ -40,7 +40,7 @@ GenesisL1 https://ping.pub/genesisl1/staking/genesisvaloper1tevzwt4ztgz7q6gp5t4w
 
 ## 🔸My current Testnet validators
 
-Near, Territori, CrowdControl,Idep, Desentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Near, Aura, Kyve, BlockPi, Stride, Sei
+Near, Territori, CrowdControl,Idep, Decentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Near, Aura, Kyve, BlockPi, Stride, Sei
 
 ## 🔸Hardware:
 
