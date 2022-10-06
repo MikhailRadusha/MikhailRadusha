@@ -38,9 +38,11 @@ Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894
 
 GenesisL1 https://ping.pub/genesisl1/staking/genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543
 
+Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
+
 ## 🔸My current Testnet validators
 
-Near, Territori, CrowdControl,Idep, Decentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Near, Aura, Kyve, BlockPi, Stride, Sei
+Near, Territori, CrowdControl,Idep, Decentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Aura, Kyve, BlockPi, Stride, Sei, BlockPi, Massa, Empower, Nois, Hypersign, Ollo, Kyve etc
 
 ## 🔸Hardware:
 
