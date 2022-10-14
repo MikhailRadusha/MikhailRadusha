@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 2yrs experience in running a nodes and  currently validate Gravity Bridge, OmniFlix,Konstellation, Nomic, Vidulum, BeeZee, Galaxy, Provenance, Meme, Chronic,IDEP,Canto,GenesisL1 on mainnets and participate in many testnets for a different blockchains.
+I have 2yrs experience in running a nodes and  currently validate Gravity Bridge, OmniFlix,Konstellation, Nomic, Vidulum, BeeZee, Galaxy, Provenance, Meme, Chronic,IDEP,Canto,GenesisL1,Teritori on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
