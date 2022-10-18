@@ -24,13 +24,9 @@ Vidulum https://explorers.vidulum.app/vidulum/staking/vdlvaloper1mjfnpcx4yw3fz48
 
 BeeZee https://explorers.vidulum.app/beezee/staking/bzevaloper178cler4ysydw2tw909dh4gtss6uja4stplsfaq
 
-Galaxy https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1le4284wttjwrwpgju3wwnxk5nkcwmkha3sng8e
-
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
 
 Meme https://ping.pub/meme/staking/memevaloper1ctjtsrqjtqq9dmq53w8hvvmldngzwarv0xxqwy
-
-Chronic https://chronic.zenscan.io/validator.php?addr=chronicvaloper1y64wre98vqyfldmg626x0g34hll7ksdhmwcn6q
 
 IDEP https://chadscan.com/validators/idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt9djgczr
 
@@ -39,6 +35,8 @@ Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894
 GenesisL1 https://ping.pub/genesisl1/staking/genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543
 
 Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
+
+Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper1ungevjyce3ghrxpfv7hs36rhm5sdzprw2fqgue
 
 ## 🔸My current Testnet validators
 
