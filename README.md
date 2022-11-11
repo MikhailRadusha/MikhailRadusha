@@ -38,6 +38,8 @@ IDEP https://chadscan.com/validators/idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt
 
 Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894xswcjp70xwa3rtxf9vds6a
 
+Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
+
 ## 🔸My current Testnet validators
 
 Near, Territori, CrowdControl,Idep, Decentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Aura, Kyve, BlockPi, Stride, Sei, BlockPi, Massa, Empower, Nois, Hypersign, Ollo, Kyve etc
