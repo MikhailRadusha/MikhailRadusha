@@ -30,8 +30,6 @@ Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper1ungevjyce3ghrxp
 
 Vidulum https://explorers.vidulum.app/vidulum/staking/vdlvaloper1mjfnpcx4yw3fz48vueh2ycjky95k6t48qcmr4l
 
-IDEP https://chadscan.com/validators/idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt9djgczr
-
 BeeZee https://explorers.vidulum.app/beezee/staking/bzevaloper178cler4ysydw2tw909dh4gtss6uja4stplsfaq
 
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
