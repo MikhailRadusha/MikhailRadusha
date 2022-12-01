@@ -16,6 +16,8 @@ Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1
 
 Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
 
+Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
+
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
 
 Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper1z5lnfyrw7net36geh4l5h7upglctzv4ypjsvvv
@@ -37,8 +39,6 @@ Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5
 IDEP https://chadscan.com/validators/idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt9djgczr
 
 Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894xswcjp70xwa3rtxf9vds6a
-
-Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
 
 ## 🔸My current Testnet validators
 
