@@ -16,13 +16,17 @@ tmux new-session -s download
 
 systemctl stop okp4d
 
+# copy validator state to prevent accidential double signing
 cp $HOME/.okp4d/data/priv_validator_state.json $HOME/.okp4d/priv_validator_state.json.backup
+
 okp4d tendermint unsafe-reset-all --home $HOME/.okp4d --keep-addr-book
 
 # download wasm if necessary
 curl -L http://65.108.142.47:8000/wasm.tar.lz4 | lz4 -dc - | tar -xf - -C $HOME/upload --strip-components 2
+
 # download snapshot (data folder)
 curl -L http://65.108.142.47:8000/data.tar.lz4 | lz4 -dc - | tar -xf - -C $HOME/upload --strip-components 2
+
 mv $HOME/.okp4d/priv_validator_state.json.backup $HOME/.okp4d/data/priv_validator_state.json
 
 systemctl restart okp4d && journalctl -u okp4d -f -o cat
