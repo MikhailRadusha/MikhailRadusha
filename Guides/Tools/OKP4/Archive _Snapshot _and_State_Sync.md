@@ -9,7 +9,7 @@ apt update
 apt install snapd -y
 snap install lz4
 
-# because of the snapshot size it might be a good idea to unpack it using tmux or screen
+# because of the snapshot size it is a good idea to unpack it using tmux or screen
 apt install tmux -y
 tmux new-session -s download
 # to leave session CTRL+B D
