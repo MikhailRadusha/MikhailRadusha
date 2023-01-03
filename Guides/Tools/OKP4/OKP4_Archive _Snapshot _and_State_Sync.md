@@ -8,6 +8,10 @@ apt update
 apt install snapd -y
 snap install lz4
 
+# because of the snapshot size it might be a good idea to unpack it using tmux or screen
+apt install tmux -y
+tmux new-session -s download
+
 systemctl stop okp4d
 
 cp $HOME/.okp4d/data/priv_validator_state.json $HOME/.okp4d/priv_validator_state.json.backup
@@ -18,6 +22,7 @@ curl -L http://65.108.142.47:8000/wasm.tar.lz4 | lz4 -dc - | tar -xf - -C $HOME/
 # download snapshot (data folder)
 curl -L http://65.108.142.47:8000/data.tar.lz4 | lz4 -dc - | tar -xf - -C $HOME/upload --strip-components 2
 mv $HOME/.okp4d/priv_validator_state.json.backup $HOME/.okp4d/data/priv_validator_state.json
+
 systemctl restart okp4d && journalctl -u okp4d -f -o cat
 ```
 
