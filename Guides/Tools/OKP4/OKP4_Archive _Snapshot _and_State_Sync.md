@@ -1,3 +1,25 @@
+# Archive_Snapshot OKP4 --chain-id okp4-nemeton-1
+## Snapshots are made every day
+### Latest snapshot - height 284700; size ≈ 90GB; pruning: nothing; indexer: kv
+
+```bash
+# install lz4
+apt update
+apt install snapd -y
+snap install lz4
+
+systemctl stop okp4d
+
+cp $HOME/.okp4d/data/priv_validator_state.json $HOME/.okp4d/priv_validator_state.json.backup
+okp4d tendermint unsafe-reset-all --home $HOME/.okp4d --keep-addr-book
+
+# download wasm if necessary
+curl -L http://65.108.142.47:8000/wasm.tar.lz4 | lz4 -dc - | tar -xf - -C $HOME/upload --strip-components 2
+# download snapshot (data folder)
+curl -L http://65.108.142.47:8000/data.tar.lz4 | lz4 -dc - | tar -xf - -C $HOME/upload --strip-components 2
+mv $HOME/.okp4d/priv_validator_state.json.backup $HOME/.okp4d/data/priv_validator_state.json
+systemctl restart okp4d && journalctl -u okp4d -f -o cat
+
 # State Sync OKP4 --chain-id okp4-nemeton-1
 
 ```bash
