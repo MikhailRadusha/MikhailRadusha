@@ -1,6 +1,6 @@
 # Archive_Snapshot OKP4 --chain-id okp4-nemeton-1
 ## Snapshots are updated on daily basis
-### Latest snapshot - height 367425; size ≈ 120GB; pruning: nothing; indexer: kv
+### Latest snapshot - height 397659; size ≈ 120GB; pruning: nothing; indexer: kv
 ### Link to snapshot http://65.108.142.47:8000/
 
 ```bash
