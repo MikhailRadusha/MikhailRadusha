@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 2yrs experience in running a nodes and  currently validate Near,Gravity Bridge, OmniFlix, Teritori, Jackal, Lambda, Konstellation, Nomic, Vidulum, BeeZee, Provenance, Meme,IDEP,Canto,GenesisL1, Pylons on mainnets and participate in many testnets for a different blockchains.
+I have 2yrs experience in running a nodes and  currently validate Near,Gravity Bridge, OmniFlix, Teritori, Jackal, Quicksilver, Lambda, Konstellation, Nomic, Vidulum, BeeZee, Provenance, Meme,IDEP,Canto,GenesisL1, Pylons on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
@@ -19,6 +19,8 @@ Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1
 Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
 
 Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
+
+Quicksilver https://quicksilver.explorers.guru/validator/quickvaloper1kz62jxh5se4y0l3nywusk4su0paw8c6rc4fy36
 
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
 
