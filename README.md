@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 2yrs experience in running a nodes and  currently validate Near,Gravity Bridge, OmniFlix, Teritori, Jackal, Quicksilver, Lambda, Konstellation, Nomic, Vidulum, BeeZee, Provenance, Meme,IDEP,Canto,GenesisL1, Pylons on mainnets and participate in many testnets for a different blockchains.
+I have 2yrs experience in running a nodes and  currently validate Near, Gravity Bridge, OmniFlix, Teritori, Jackal, Quicksilver, Lambda, Konstellation, Nomic, Vidulum, BeeZee, Provenance, Meme, IDEP, Canto, GenesisL1, Pylons, Mises on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
@@ -46,9 +46,11 @@ IDEP https://chadscan.com/validators/idepvaloper1a6qxlnnnjc89uht9ewvp9mryuywgndt
 
 Canto https://mainnet.manticore.team/canto/staking/cantovaloper1kyhhvx47wuj7n894xswcjp70xwa3rtxf9vds6a
 
-## 🔸My current Testnet validators
+Mises https://explorer.stavr.tech/mises/staking/misesvaloper1c3rs90uxqu0ewlrkp2lfy5u9krlqtcxpfvnwk0
 
-Near, Territori, CrowdControl,Idep, Decentrilized Web Services, Nomic, Clan network, Source protocol, Haqq, Aura, Kyve, BlockPi, Stride, Sei, BlockPi, Massa, Empower, Nois, Hypersign, Ollo, Kyve etc
+## 🔸My current Testnet validators and nodes
+
+Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast etc
 
 ## 🔸Hardware:
 
