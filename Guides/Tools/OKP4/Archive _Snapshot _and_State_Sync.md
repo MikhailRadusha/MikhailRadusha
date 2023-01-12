@@ -2,6 +2,7 @@
 ## Snapshots are updated on daily basis. It can be used to sync archive node.
 ### Latest snapshot - height 426668; size ≈ 135GB; pruning: nothing; indexer: kv
 ### Link to snapshot http://65.108.142.47:8000/
+### Archive RPC http://65.108.142.47:26617
 
 ```bash
 # install lz4
