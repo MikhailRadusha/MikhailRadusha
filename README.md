@@ -6,7 +6,7 @@ I have 2yrs experience in running a nodes and  currently validate Near, Gravity 
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
-I'm paying a close attention to my every validator or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is my number one priority.
+I'm paying a close attention to my every validator, node or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is my number one priority.
 
 My motto: Reliable Proof-of-Stake Validator. You can always count on me!
 
