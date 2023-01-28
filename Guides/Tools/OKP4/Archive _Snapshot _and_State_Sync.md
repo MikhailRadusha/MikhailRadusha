@@ -1,6 +1,6 @@
 # Archive_Snapshot OKP4 --chain-id okp4-nemeton-1
 ## Snapshots are updated on daily basis. It can be used to sync archive node.
-### Latest snapshot - height 645036; size ≈ 200GB; pruning: nothing; indexer: kv
+### Latest snapshot - height 661492; size ≈ 200GB; pruning: nothing; indexer: kv
 ### Link to snapshot http://65.108.142.47:8000/
 ### Archive RPC http://65.108.142.47:26617
 
