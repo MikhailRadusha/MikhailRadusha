@@ -1,8 +1,8 @@
-# Archive_Snapshot OKP4 --chain-id okp4-nemeton-1
-## Snapshots are updated on daily basis. It can be used to sync archive node.
-### Latest snapshot - height 719970; size ≈ 200GB; pruning: nothing; indexer: kv
+# Snapshot OKP4 --chain-id okp4-nemeton-1
+## Snapshots are updated on daily basis. 
+### Latest snapshot - height 734498; size ≈ 0.5GB; pruning: custom, pruning-keep-recent = "10000", pruning-interval = "10" ; indexer: kv
 ### Link to snapshot http://65.108.142.47:8000/
-### Archive RPC http://65.108.142.47:26617
+### RPC http://65.108.142.47:26617
 
 ```bash
 # install lz4
@@ -35,7 +35,7 @@ systemctl restart okp4d && journalctl -u okp4d -f -o cat
 ```
 
 # State Sync OKP4 --chain-id okp4-nemeton-1
-## This is Archive RPC (with all blockchain history) - can be used to statesync or for Explorers and Dashboards.
+## RPC can be used to statesync or for Explorers and Dashboards.
 
 ```bash
 # stop node
