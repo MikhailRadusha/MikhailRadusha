@@ -1,6 +1,6 @@
 # Snapshot OKP4 --chain-id okp4-nemeton-1
 ## Snapshots are updated on daily basis. 
-### Latest snapshot - height 768312; size ≈ 0.5GB; pruning: custom, pruning-keep-recent = "10000", pruning-interval = "10" ; indexer: kv
+### Latest snapshot - height 778833; size ≈ 0.5GB; pruning: custom, pruning-keep-recent = "10000", pruning-interval = "10" ; indexer: kv
 ### Link to snapshot http://65.108.142.47:8000/
 ### RPC http://65.108.142.47:26617
 
