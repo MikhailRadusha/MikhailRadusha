@@ -50,7 +50,7 @@ Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi
 
 ## 🔸Hardware:
 
-Location - Hetzner DS, Germany (if necessary, I can rent a unique location)
+Location - OVH DC (if necessary, I can rent a unique location)
 
 Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
 
