@@ -44,9 +44,9 @@ Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5
 
 Mises https://explorer.stavr.tech/mises/staking/misesvaloper1c3rs90uxqu0ewlrkp2lfy5u9krlqtcxpfvnwk0
 
-## 🔸My current Testnet validators and nodes
+## 🔸My current and previous Testnet validators and nodes
 
-Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast etc
+Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui etc.
 
 ## 🔸Hardware:
 
