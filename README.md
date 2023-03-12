@@ -24,8 +24,6 @@ Quicksilver https://quicksilver.explorers.guru/validator/quickvaloper1kz62jxh5se
 
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
 
-Konstellation https://www.mintscan.io/konstellation/validators/darcvaloper1z5lnfyrw7net36geh4l5h7upglctzv4ypjsvvv
-
 Meme https://ping.pub/meme/staking/memevaloper1ctjtsrqjtqq9dmq53w8hvvmldngzwarv0xxqwy
 
 Nomic https://nomic.zenscan.io/validator.php?addr=nomic1cwmk2jegdmygyvjk04yakdg5fshdhnhqm3yq35
@@ -46,7 +44,7 @@ Mises https://explorer.stavr.tech/mises/staking/misesvaloper1c3rs90uxqu0ewlrkp2l
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui etc.
+Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation etc.
 
 ## 🔸Hardware:
 
