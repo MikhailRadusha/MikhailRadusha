@@ -34,8 +34,6 @@ Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc
 
 Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper1ungevjyce3ghrxpfv7hs36rhm5sdzprw2fqgue
 
-Vidulum https://explorers.vidulum.app/vidulum/staking/vdlvaloper1mjfnpcx4yw3fz48vueh2ycjky95k6t48qcmr4l
-
 BeeZee https://explorers.vidulum.app/beezee/staking/bzevaloper178cler4ysydw2tw909dh4gtss6uja4stplsfaq
 
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
@@ -44,7 +42,7 @@ Mises https://explorer.stavr.tech/mises/staking/misesvaloper1c3rs90uxqu0ewlrkp2l
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation etc.
+Near, Territori, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum etc.
 
 ## 🔸Hardware:
 
