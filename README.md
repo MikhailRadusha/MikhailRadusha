@@ -20,6 +20,8 @@ Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjpl
 
 Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
 
+Aura https://aurascan.io/validators/auravaloper1up3cnxcs6krcxzmp5rzcsz85djerxvu5zg2gms
+
 Kyve https://explorer.kyve.network/kyve/staking/kyvevaloper10dxzd7ajnxpyrg4zsju9p3njpk50tnu4n6q8er
 
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
