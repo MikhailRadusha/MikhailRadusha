@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 3yrs experience in running a nodes and  currently validate Near, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Lambda, Konstellation, Nomic, Vidulum, BeeZee, Provenance, Meme, GenesisL1, Pylons, Mises on mainnets and participate in many testnets for a different blockchains.
+I have 3yrs experience in running a nodes and  currently validate Near, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, BeeZee, Provenance, Meme, GenesisL1, Pylons, Mises on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
@@ -36,8 +36,6 @@ GenesisL1 https://ping.pub/genesisl1/staking/genesisvaloper1tevzwt4ztgz7q6gp5t4w
 
 Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc7qj96ddjchm74wpe4
 
-Lambda https://explorer.nodestake.top/lambda/staking/lambvaloper1ungevjyce3ghrxpfv7hs36rhm5sdzprw2fqgue
-
 BeeZee https://explorers.vidulum.app/beezee/staking/bzevaloper178cler4ysydw2tw909dh4gtss6uja4stplsfaq
 
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
@@ -46,7 +44,7 @@ Mises https://explorer.stavr.tech/mises/staking/misesvaloper1c3rs90uxqu0ewlrkp2l
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum etc.
+Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum etc.
 
 ## 🔸Hardware:
 
