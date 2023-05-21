@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 3yrs experience in running a nodes and  currently validate Near, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, BeeZee, Provenance, Meme, GenesisL1, Pylons, Mises on mainnets and participate in many testnets for a different blockchains.
+I have 3yrs experience in running a nodes and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, BeeZee, Provenance, Meme, GenesisL1, Pylons, Mises on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem.
 
@@ -13,6 +13,8 @@ My motto: Reliable Proof-of-Stake Validator. You can always count on me!
 ## 🔸My current Mainnet validators 
 
 Near https://explorer.near.org/accounts/stingray.poolv1.near
+
+Gitopia https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1utlu47p5tu0ge99gc6rxmqpc2kt7dfatupqgr5
 
 Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1whk7n78qamc999lkrewhvkt3p7peht0k4dartm
 
