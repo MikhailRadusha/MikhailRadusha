@@ -4,7 +4,7 @@ I am an individual validator and blockchain enthusiast.
 
 I have 3yrs experience in running a nodes and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, BeeZee, Provenance, Meme, GenesisL1, Pylons, Mises, BwareLabs on mainnets and participate in many testnets for a different blockchains.
 
-I also run an IBC Relayer for Cosmos ecosystem.
+I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
 I'm paying a close attention to my every validator, node or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is my number one priority.
 
