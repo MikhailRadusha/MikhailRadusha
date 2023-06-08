@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 3yrs experience in running a nodes and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, BeeZee, Provenance, Meme, GenesisL1, Pylons, Mises, BwareLabs on mainnets and participate in many testnets for a different blockchains.
+I have 3yrs experience in running a nodes and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Meme, GenesisL1, Pylons, Mises, BwareLabs on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
@@ -35,8 +35,6 @@ Meme https://ping.pub/meme/staking/memevaloper1ctjtsrqjtqq9dmq53w8hvvmldngzwarv0
 Nomic https://nomic.zenscan.io/validator.php?addr=nomic1cwmk2jegdmygyvjk04yakdg5fshdhnhqm3yq35
 
 Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc7qj96ddjchm74wpe4
-
-BeeZee https://explorers.vidulum.app/beezee/staking/bzevaloper178cler4ysydw2tw909dh4gtss6uja4stplsfaq
 
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
 
