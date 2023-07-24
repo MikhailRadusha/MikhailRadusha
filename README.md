@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 3yrs experience in running a nodes and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, CosmicHorizon, Uptick, Nomic, Provenance, Meme, Pylons, Mises, BwareLabs, Composable Finance on mainnets and participate in many testnets for a different blockchains.
+I have 3yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, CosmicHorizon, Uptick, Nomic, Provenance, Pylons, Mises, BwareLabs, Composable Finance on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
@@ -32,8 +32,6 @@ Kyve https://explorer.kyve.network/kyve/staking/kyvevaloper10dxzd7ajnxpyrg4zsju9
 
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
 
-Meme https://ping.pub/meme/staking/memevaloper1ctjtsrqjtqq9dmq53w8hvvmldngzwarv0xxqwy
-
 Nomic https://nomic.zenscan.io/validator.php?addr=nomic1cwmk2jegdmygyvjk04yakdg5fshdhnhqm3yq35
 
 Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc7qj96ddjchm74wpe4
@@ -46,7 +44,7 @@ Composable https://explorer.stavr.tech/composable-mainnet/staking/centaurivalope
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, OKP4, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum etc.
+Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, OKP4, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum etc.
 
 ## 🔸Hardware:
 
