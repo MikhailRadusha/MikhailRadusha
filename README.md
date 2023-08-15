@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 3yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, CosmicHorizon, Uptick, Nomic, Provenance, Pylons, Mises, BwareLabs, Composable Finance on mainnets and participate in many testnets for a different blockchains.
+I have 3yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Mises, BwareLabs, Composable Finance on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
@@ -11,6 +11,8 @@ I'm paying a close attention to my every validator, node or relayer - 24hr manag
 My motto: Reliable Proof-of-Stake Validator. You can always count on me!
 
 ## 🔸My current Mainnet validators 
+
+Sei https://www.mintscan.io/sei/validators/seivaloper1fpvjye4rcqmds6vvrjvf4pl8jfsv5vkn0llaxs
 
 Near https://explorer.near.org/accounts/stingray.poolv1.near
 
@@ -23,8 +25,6 @@ Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjpl
 Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
 
 Aura https://aurascan.io/validators/auravaloper1up3cnxcs6krcxzmp5rzcsz85djerxvu5zg2gms
-
-CosmicHorizon https://explorer.theamsolutions.info/qwoyn-main/staking/qwoynvaloper1wdarsfj6lq5k0xks7pe5gpyfe3cue76vsrdvzk
 
 Uptick https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper187yk7f6eukk88c8qvy4h0js8q6ehg6hx5zqpwy
 
