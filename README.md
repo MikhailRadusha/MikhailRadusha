@@ -62,6 +62,6 @@ Twitter https://twitter.com/Mikhail00847153
 
 TG https://t.me/MikhailRadusha
 
-Discord Mikhail#5221
+Discord stingraym
 
 E-mail: mvradusha@gmail.com
