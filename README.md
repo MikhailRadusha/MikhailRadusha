@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 3yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, BwareLabs, Realio, Source on mainnets and participate in many testnets for a different blockchains.
+I have 3yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, BwareLabs, Haqq, Source on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
@@ -38,8 +38,9 @@ Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc
 
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
 
-Source https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper123yehglh53lwzzdya3de28p8knguutr0dcgr6h
+Haqq https://haqq.explorers.guru/validator/haqqvaloper1fvh4dyafkefk5z8yvldvmjrd2fypcd3wzl2v4q
 
+Source https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper123yehglh53lwzzdya3de28p8knguutr0dcgr6h
 
 ## 🔸My current and previous Testnet validators and nodes
 
