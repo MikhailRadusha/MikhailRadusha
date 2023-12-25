@@ -14,7 +14,7 @@ My motto: Reliable Proof-of-Stake Validator. You can always count on me!
 
 Sei https://www.mintscan.io/sei/validators/seivaloper1fpvjye4rcqmds6vvrjvf4pl8jfsv5vkn0llaxs
 
-Near https://explorer.near.org/accounts/stingray.poolv1.near
+Near https://nearblocks.io/address/stingray.poolv1.near
 
 Gitopia https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1utlu47p5tu0ge99gc6rxmqpc2kt7dfatupqgr5
 
