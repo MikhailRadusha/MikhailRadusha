@@ -20,7 +20,7 @@ Gitopia https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1utlu47p5tu0
 
 Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1whk7n78qamc999lkrewhvkt3p7peht0k4dartm
 
-Teritori https://teritori.explorers.guru/validator/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
+Teritori https://www.mintscan.io/teritori/validators/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
 
 Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
 
