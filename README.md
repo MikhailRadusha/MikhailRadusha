@@ -44,7 +44,7 @@ Source https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper123yehglh
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, OKP4, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4 etc.
+Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4 etc.
 
 ## 🔸Hardware:
 
