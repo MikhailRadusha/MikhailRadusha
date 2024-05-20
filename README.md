@@ -30,11 +30,9 @@ Aura https://aurascan.io/validators/auravaloper1up3cnxcs6krcxzmp5rzcsz85djerxvu5
 
 Uptick https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper187yk7f6eukk88c8qvy4h0js8q6ehg6hx5zqpwy
 
-Kyve https://explorer.kyve.network/kyve/staking/kyvevaloper10dxzd7ajnxpyrg4zsju9p3njpk50tnu4n6q8er
-
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
 
-Nomic https://nomic.zenscan.io/validator.php?addr=nomic1cwmk2jegdmygyvjk04yakdg5fshdhnhqm3yq35
+Nomic https://explorer.quokkastake.io/nomic/staking/nomic1cwmk2jegdmygyvjk04yakdg5fshdhnhqm3yq35
 
 Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc7qj96ddjchm74wpe4
 
