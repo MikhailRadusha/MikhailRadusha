@@ -22,25 +22,29 @@ Gitopia https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1utlu47p5tu0
 
 Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1whk7n78qamc999lkrewhvkt3p7peht0k4dartm
 
-Teritori https://www.mintscan.io/teritori/validators/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
-
 Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
+
+Teritori https://www.mintscan.io/teritori/validators/torivaloper1lrq8sl2jq7246yjplutv5lul8ykrhqcrqmqdsu
 
 Aura https://aurascan.io/validators/auravaloper1up3cnxcs6krcxzmp5rzcsz85djerxvu5zg2gms
 
-Uptick https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper187yk7f6eukk88c8qvy4h0js8q6ehg6hx5zqpwy
-
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
+
+Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
+
+Althea https://althea.explorers.guru/validator/altheavaloper1nekx03jd7phw8ru48u7tkttfnfx69l8tjekl3l
+
+Uptick https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper187yk7f6eukk88c8qvy4h0js8q6ehg6hx5zqpwy
 
 Nomic https://explorer.quokkastake.io/nomic/staking/nomic1cwmk2jegdmygyvjk04yakdg5fshdhnhqm3yq35
 
 Pylons https://pylons.explorers.guru/validator/pylovaloper19akas3pu5jqs45gqgzpvc7qj96ddjchm74wpe4
 
-Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
-
 Haqq https://haqq.explorers.guru/validator/haqqvaloper1fvh4dyafkefk5z8yvldvmjrd2fypcd3wzl2v4q
 
 Source https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper123yehglh53lwzzdya3de28p8knguutr0dcgr6h
+
+Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1v7ss667a0dgd50uq254qh3tqmqs42skqlv85cs
 
 ## 🔸My current and previous Testnet validators and nodes
 
