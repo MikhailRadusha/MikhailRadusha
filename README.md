@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, Gitopia, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, BwareLabs, Haqq, Source, Massa on mainnets and participate in many testnets for a different blockchains.
+I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, BwareLabs, Haqq, Source, Massa on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
@@ -18,9 +18,11 @@ Dymension https://dymension.explorers.guru/validator/dymvaloper1vgptdq22lpjcdeh9
 
 Near https://nearblocks.io/address/stingray.poolv1.near
 
-Gitopia https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1utlu47p5tu0ge99gc6rxmqpc2kt7dfatupqgr5
+Althea https://althea.explorers.guru/validator/altheavaloper1nekx03jd7phw8ru48u7tkttfnfx69l8tjekl3l
 
 Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1whk7n78qamc999lkrewhvkt3p7peht0k4dartm
+
+Gitopia https://explorer.stavr.tech/gitopia-m/staking/gitopiavaloper1utlu47p5tu0ge99gc6rxmqpc2kt7dfatupqgr5
 
 Jackal https://ping.pub/jackal/staking/jklvaloper17jjy37zme9w6up9yuh5yf28xqagk03mfunqlqh
 
@@ -31,8 +33,6 @@ Aura https://aurascan.io/validators/auravaloper1up3cnxcs6krcxzmp5rzcsz85djerxvu5
 OmniFlix https://www.mintscan.io/omniflix/validators/omniflixvaloper18grsrr322fqdrcuk75p3t5k4fkts85u56cjn7l
 
 Provenance https://www.mintscan.io/provenance/validators/pbvaloper1xacl57txds5q5rcx02xvqg0j80gk0gvqr8f3cs
-
-Althea https://althea.explorers.guru/validator/altheavaloper1nekx03jd7phw8ru48u7tkttfnfx69l8tjekl3l
 
 Uptick https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper187yk7f6eukk88c8qvy4h0js8q6ehg6hx5zqpwy
 
