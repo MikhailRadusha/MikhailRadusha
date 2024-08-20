@@ -64,7 +64,7 @@ Bandwidth - 1 Gbit/s-Port
 
 GitHub https://github.com/MikhailRadusha
 
-Twitter https://twitter.com/Mikhail00847153
+Twitter https://x.com/Mikhail00847153
 
 TG https://t.me/MikhailRadusha
 
