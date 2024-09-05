@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, BwareLabs, Haqq, Source, Massa on mainnets and participate in many testnets for a different blockchains.
+I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Massa on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
@@ -48,7 +48,7 @@ Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1v7ss667a
 
 ## 🔸My current and previous Testnet validators and nodes
 
-Initia, Side protocol, Airchains, Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4 etc.
+Initia, Side protocol, Airchains, Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4, Nillion, Elixir, Galactica, Emperia, Sidechain etc.
 
 ## 🔸Hardware:
 
