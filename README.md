@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Massa on mainnets and participate in many testnets for a different blockchains.
+I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Dymension, Near, Gitopia, Althea, Gravity Bridge, Gitopia, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API and snapshots.
 
