@@ -18,6 +18,10 @@ Dymension https://dymension.explorers.guru/validator/dymvaloper1vgptdq22lpjcdeh9
 
 Near https://nearblocks.io/address/stingray.poolv1.near
 
+Zenrock https://mainnet.itrocket.net/zenrock/staking/zenvaloper1lk50hg894xq3m7y2uza0a5l7pqp2gtxnt5p5s3
+
+Side https://side.explorers.guru/validator/sidevaloper1qq0sx9cjpgvskxgxp5wsjqqvzgdquqcvrsp3yrgnqqfp2rcvqg0qkhp0jju
+
 Althea https://althea.explorers.guru/validator/altheavaloper1nekx03jd7phw8ru48u7tkttfnfx69l8tjekl3l
 
 Gravity Bridge https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1whk7n78qamc999lkrewhvkt3p7peht0k4dartm
