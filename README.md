@@ -2,7 +2,7 @@
 
 I am an individual validator and blockchain enthusiast.
 
-I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, StarkNet, Dymension, Near, Zenrock, Gitopia, Althea, Gravity Bridge, Gitopia, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
+I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, StarkNet, Dymension,  Zenrock, Gitopia, Althea, Gravity Bridge, Gitopia, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
 
 I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API, GRPC, EVM-RPC and snapshots.
 
@@ -14,9 +14,11 @@ My motto: Reliable Proof-of-Stake Validator. You can always count on me!
 
 Sei https://www.mintscan.io/sei/validators/seivaloper1fpvjye4rcqmds6vvrjvf4pl8jfsv5vkn0llaxs
 
+Near https://nearblocks.io/address/stingray.poolv1.near
+
 Dymension https://dymension.explorers.guru/validator/dymvaloper1vgptdq22lpjcdeh9a5fp29uzf3xuw93kl2pa3c
 
-Near https://nearblocks.io/address/stingray.poolv1.near
+StarkNet https://voyager.online/staking?validator=0x07a97a7662e7f634c8f1d136cbd1f4d46b4c9551ba5f7df0c32b3d6a07f0f1cd
 
 Zenrock https://mainnet.itrocket.net/zenrock/staking/zenvaloper1lk50hg894xq3m7y2uza0a5l7pqp2gtxnt5p5s3
 
