@@ -1,16 +1,16 @@
 ## 🔸StingRay validator
 
-I am an individual validator and blockchain enthusiast.
+ We are a validator team .
 
-I have 4yrs experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, StarkNet, Dymension,  Zenrock, Gitopia, Althea, Gravity Bridge, Gitopia, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
+We have a vast experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, StarkNet, Dymension,  Zenrock, Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
 
-I also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API, GRPC, EVM-RPC and snapshots.
+We also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API, GRPC, EVM-RPC and snapshots.
 
-I'm paying a close attention to my every validator, node or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is my number one priority.
+We're paying a close attention to my every validator, node or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is my number one priority.
 
-My motto: Reliable Proof-of-Stake Validator. You can always count on me!
+Our motto: Reliable Proof-of-Stake Validator. You can always count on us!
 
-## 🔸My current Mainnet validators 
+## 🔸Our current Mainnet validators 
 
 Sei https://www.mintscan.io/sei/validators/seivaloper1fpvjye4rcqmds6vvrjvf4pl8jfsv5vkn0llaxs
 
@@ -52,13 +52,13 @@ Source https://explorer.stavr.tech/Source-Mainnet/staking/sourcevaloper123yehglh
 
 Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1v7ss667a0dgd50uq254qh3tqmqs42skqlv85cs
 
-## 🔸My current and previous Testnet validators and nodes
+## 🔸Our current and previous Testnet validators and nodes
 
 Initia, Ika, Side protocol, Airchains, Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4, Nillion, Elixir, Galactica, Emperia, Sidechain, 0G, Prysm etc.
 
 ## 🔸Hardware:
 
-Location - OVH DC (if necessary, I can rent a unique location)
+Location - OVH DC (if necessary, We can rent a unique location)
 
 Processor - AMD Ryzen 5950X (32 CPU, 128 RAM)
 
