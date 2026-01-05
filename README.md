@@ -2,7 +2,7 @@
 
  We are a validator team .
 
-We have a vast experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, StarkNet, Dymension,  Zenrock, Gitopia, Althea, Gravity Bridge, OmniFlix, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Pylons, Haqq, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
+We have a vast experience in running a nodes, have taken a part in more than a hundred testnets and  currently validate Sei, Near, StarkNet, Dymension,  Zenrock, Gitopia, Althea, Gravity Bridge, Teritori, Jackal, Aura, Uptick, Nomic, Provenance, Source, Realio, Massa on mainnets and participate in many testnets for a different blockchains.
 
 We also run an IBC Relayer for Cosmos ecosystem, provide infrastructure such as RPC, API, GRPC, EVM-RPC and snapshots.
 
