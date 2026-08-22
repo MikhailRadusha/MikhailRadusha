@@ -18,6 +18,8 @@ Near https://nearblocks.io/address/stingray.poolv1.near
 
 StarkNet https://voyager.online/staking?validator=0x07a97a7662e7f634c8f1d136cbd1f4d46b4c9551ba5f7df0c32b3d6a07f0f1cd
 
+Espresso https://espressonodes.com/operator/0x52675a53c4e2e486a5c6f14fa4a77e7ecc9e3b2f?network=mainnet
+
 Dymension https://dymension.explorers.guru/validator/dymvaloper1vgptdq22lpjcdeh9a5fp29uzf3xuw93kl2pa3c
 
 Zenrock https://mainnet.itrocket.net/zenrock/staking/zenvaloper1lk50hg894xq3m7y2uza0a5l7pqp2gtxnt5p5s3
