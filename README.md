@@ -38,6 +38,8 @@ Uptick https://explorer.stavr.tech/uptick-mainnet/staking/uptickvaloper187yk7f6e
 
 Realio https://explorer.stavr.tech/Realio-Mainnet/staking/realiovaloper1v7ss667a0dgd50uq254qh3tqmqs42skqlv85cs
 
+GenesisL1 https://explorer.utsa.tech/networks/genesisl1-mainnet/validators/genesisvaloper1tevzwt4ztgz7q6gp5t4wna3e8xe5fcxxh64543
+
 ## 🔸Our current and previous Testnet validators and nodes
 
 Monad, Initia, Ika, Side protocol, Airchains, Dymension, Near, Territori, Quicksilver, CrowdControl, Nomic, Source protocol, Haqq, Aura, Kyve, BlockPi, Sei, Massa, Nois, Hypersign, Anoma, Lava, Nolus, Aleo, Humans.AI, SGE, Meme, Powerchain, Exorde, Lambda, Neutron, Nibiru, Mande, Realio, Andromachain, Uptick, Terp, Blast, Ironfish, Aleo, Aptos, Sui, Konstellation, Vidulum, Althea, OKP4, Nillion, Elixir, Galactica, Emperia, Sidechain, 0G, Prysm etc.
