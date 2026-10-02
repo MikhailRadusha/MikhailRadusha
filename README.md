@@ -6,7 +6,7 @@ We have a vast experience in running a nodes, have taken a part in more than a h
 
 We also provide infrastructure such as RPC, API, GRPC, EVM-RPC and snapshots and run an IBC Relayer for Cosmos ecosystem. 
 
-We're paying a close attention to my every validator, node or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is my number one priority.
+We're paying a close attention to my every validator, node or relayer - 24hr management & monitoring! (Grafana + Prometeus + Telegram alerts) - keeping it healthy is our number one priority.
 
 Our motto: Reliable Proof-of-Stake Validator. You can always count on us!
 
